@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s /root/holbertonschool-shell/basics/tmp/bin/ls _ls_
